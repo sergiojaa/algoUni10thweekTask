@@ -1,0 +1,90 @@
+{
+    "books": [
+      {
+        "id": "ea7b",
+        "name": "the great gotsby",
+        "author": "f.scott firtzheg",
+        "borrowedBooks": []
+      },
+      {
+        "id": "9269",
+        "name": "1984",
+        "author": "george orwell",
+        "borrowedBooks": []
+      },
+      {
+        "id": "895b",
+        "name": "you bad boy",
+        "author": "george kaliashvili",
+        "borrowedBooks": []
+      },
+      {
+        "id": "527a",
+        "name": "I am good boy",
+        "author": "sergikaliashvili",
+        "borrowedBooks": []
+      }
+    ],
+    "users": [
+      {
+        "id": "2a06",
+        "name": "beqa",
+        "borrowedBooks": []
+      },
+      {
+        "id": "9cd1",
+        "name": "gio",
+        "borrowedBooks": []
+      },
+      {
+        "id": "965a",
+        "name": "nika",
+        "borrowedBooks": []
+      },
+      {
+        "id": "d97e",
+        "name": "gio",
+        "borrowedBooks": []
+      },
+      {
+        "id": "fbbf",
+        "name": "beqa",
+        "borrowedBooks": []
+      },
+      {
+        "id": "6fb3",
+        "name": "nika",
+        "borrowedBooks": []
+      },
+      {
+        "id": "de59",
+        "name": "gio",
+        "borrowedBooks": []
+      },
+      {
+        "id": "01f1",
+        "name": "beqa",
+        "borrowedBooks": []
+      },
+      {
+        "id": "506b",
+        "name": "nika",
+        "borrowedBooks": []
+      },
+      {
+        "id": "9c04",
+        "name": "beqa",
+        "borrowedBooks": []
+      },
+      {
+        "id": "b6cd",
+        "name": "gio",
+        "borrowedBooks": []
+      },
+      {
+        "id": "d4a4",
+        "name": "nika",
+        "borrowedBooks": []
+      }
+    ]
+  }
